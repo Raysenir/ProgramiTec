@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\bin\Debug\net8.0\LAb1C#4s.exe
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\bin\Debug\net8.0\LAb1C#4s.deps.json
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\bin\Debug\net8.0\LAb1C#4s.runtimeconfig.json
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\bin\Debug\net8.0\LAb1C#4s.dll
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\bin\Debug\net8.0\LAb1C#4s.pdb
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\LAb1C#4s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\LAb1C#4s.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\LAb1C#4s.AssemblyInfo.cs
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\LAb1C#4s.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\LAb1C#4s.dll
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\refint\LAb1C#4s.dll
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\LAb1C#4s.pdb
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\LAb1C#4s.genruntimeconfig.cache
+C:\Users\HP\source\repos\LAb1C#4s\LAb1C#4s\obj\Debug\net8.0\ref\LAb1C#4s.dll
